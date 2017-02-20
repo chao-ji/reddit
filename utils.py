@@ -64,6 +64,7 @@ def tokens2counter(row, author_types, radius, srs, fileread):
 
 
 def jaccard(row, perc=0.1):
+    """Jaccard Similarity"""
     a = row["from_men"]
     b = row["from_fem"]
 
