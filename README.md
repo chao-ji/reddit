@@ -2,7 +2,7 @@
 
 In this project, I'm interested in understanding the factors shaping the way people interact with others from a group with opposing interests of values. I mainly used NLP techniques in combination with ad hoc querries and some ETL and exploratory data analysis.
 
-The data was scraped using reddit API (http://files.pushshift.io/reddit/comments/), and is organized as tables where each row corresponds to a reddit post. For each post, four pieces of information were considered:
+The data was scraped using reddit web API, and is organized as tables where each row corresponds to a reddit post. For each post, four pieces of information were considered:
 
 ![author, created_utc, subreddit, body](https://github.com/chao-ji/reddit/blob/master/reddit_data.png)
 
