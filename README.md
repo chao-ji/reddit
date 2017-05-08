@@ -13,17 +13,8 @@ In this data science project, I tried to study **r/MensRights** and **r/Feminism
 Below are the highlights of some of the interesting and non-trivial findings:
 
 1. Wordcloud of words over-represented in rMensRights and rFeminism: 
-  1. rMR specific words:
-    a. law and legal,
-    b. sex,
-    c. family and marriage,
-    d. curse words,
-  2. rFem specific words:
-    a. objectification,
-    b. dressing and body parts,
-    c. online discussion on reddit,
-    d. sex,
-    e. terminologies of ideologies
+  1. rMR specific words: law and legal; sex; family and marriage; curse words
+  2. rFem specific words: objectification; dressing and body parts; online discussion on reddit; sex; terminologies of ideologies
     
 <img src="https://github.com/chao-ji/reddit/blob/master/wordcloud1.png" width="600">
 <img src="https://github.com/chao-ji/reddit/blob/master/wordcloud2.png" width="600">
