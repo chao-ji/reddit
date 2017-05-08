@@ -17,7 +17,8 @@ Below are the highlights of some interesting and non-trivial findings
 <img src="https://github.com/chao-ji/reddit/blob/master/wordcloud2.png" width="600">
 2. Semantic "map" of users from rMensRights and rFeminism
 <img src="https://github.com/chao-ji/reddit/blob/master/authorvec1.png" width="600">
-
+3. Posts can be represented as real-valued vectors in multi-dimensional space. We can also find vectors that are most representative of the semantic features of posts in rMR and rFem (semantic poles). The following shows show that posts semantically close rMR pole receive greater scores than posts semantically close to rFem pole.
+<img src="https://github.com/chao-ji/reddit/blob/master/score_sempoles.png" width="600">
 
 
 * [Part 1: Temporal Analysis] (https://github.com/chao-ji/reddit/blob/master/Part%201%20Longitudinal%20Analysis%20-%20Cross-posting%20Activity%20.ipynb)
