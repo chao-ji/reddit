@@ -18,9 +18,9 @@ Below are the highlights of some of the interesting and non-trivial findings:
     
 <img src="https://github.com/chao-ji/reddit/blob/master/wordcloud1.png" width="600">
 <img src="https://github.com/chao-ji/reddit/blob/master/wordcloud2.png" width="600">
-2. Semantic "map" of users from rMensRights and rFeminism
+2. Semantic "map" of users from rMensRights and rFeminism. Users are represented as real-valued vectors in multi-dimensional space. Users whose posts are semantically similar are spatially close to each other. Users that are representative of rMR and rFem are colored in orange and cyan
 <img src="https://github.com/chao-ji/reddit/blob/master/authorvec1.png" width="600">
-3. Posts can be represented as real-valued vectors in multi-dimensional space. We can also find vectors that are most representative of the semantic features of posts in rMR and rFem (semantic poles). The following shows show that posts semantically close rMR pole receive greater scores than posts semantically close to rFem pole.
+3. Posts can be represented as real-valued vectors in multi-dimensional space. We can also find vectors that are most representative of the semantic features of posts in rMR and rFem (semantic poles). The following figure shows that posts semantically close rMR pole received greater scores than posts semantically close to rFem pole.
 <img src="https://github.com/chao-ji/reddit/blob/master/score_sempoles.png" width="600">
 
 
