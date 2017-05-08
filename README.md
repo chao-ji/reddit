@@ -2,9 +2,9 @@
 
 In human society, people form communities based on shared values, interests, or social practices. This social behavior has also become routine in the online community. For example, subreddits can be viewed as such communities, where people with the same interest can talk to each other under the corresponding subreddit.
 
-The boundaries between online communities can be flexible or rigid. On one hand, people interested in **r/iphone** may be also interested in, say **r/macbook**. On the other hand, some subreddits are so special that users have a "belong-to" or "not-belong-to" feeling. A casual example would be, say, **r/PS4** and **r/xboxone**, where people owning different types of consoles would form different online communities. A more serious example would be, for example, **r/MensRights** and **r/Feminism**, which represent two large polarized communities on Reddit, so people have a strong sense of belonging and tend to antagonize users from the other community. 
+The boundaries between online communities can be flexible or rigid. On one hand, people interested in **r/iphone** may be also interested in, say **r/macbook**. On the other hand, some subreddits are so special that users have a sense of "belong-to" or "not-belong-to". A casual example would be, say, **r/PS4** and **r/xboxone**, where people owning different types of consoles would form different online communities. A more serious example would be, for example, **r/MensRights** and **r/Feminism**, which represent two large ideologically opposing and polarized communities on Reddit, so people have a strong sense of belonging and tend to antagonize users from the other community. 
 
-In this data science project, I tried to understand the users of **r/MensRights** and **r/Feminism** from different perspective. Some of the questions to be addressed are as follows:
+In this data science project, I tried to study **r/MensRights** and **r/Feminism** from different perspective. Some of the questions to be addressed are as follows:
 
 1. Do users have biased choice between **r/MensRights** and **r/Feminism**?
 2. What are the most salient linguistic features that distinguish posts in **r/MensRights** from those in **r/Feminism**?
@@ -12,7 +12,18 @@ In this data science project, I tried to understand the users of **r/MensRights*
 
 Below are the highlights of some of the interesting and non-trivial findings:
 
-1. rMensRights and rFeminism specific words:
+1. rMensRights and rFeminism specific words. 
+  1. rMR specific words:
+    1. law and legal
+    2. sex
+    3. family and marriage
+    4. curse words
+  2. rFem specific words:
+    1. objectification
+    2. dressing and body parts
+    3. online discussion on reddit
+    4. sex
+    5. terminologies of ideologies
 <img src="https://github.com/chao-ji/reddit/blob/master/wordcloud1.png" width="600">
 <img src="https://github.com/chao-ji/reddit/blob/master/wordcloud2.png" width="600">
 2. Semantic "map" of users from rMensRights and rFeminism
