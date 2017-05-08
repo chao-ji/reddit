@@ -10,7 +10,7 @@ In this data science project, I tried to understand the users of **r/MensRights*
 2. What are the most salient linguistic features that distinguish posts in **r/MensRights** from those in **r/Feminism**?
 3. How does users' linguistic pattern change over time ?
 
-Below are the highlights of some interesting and non-trivial findings 
+Below are the highlights of some of the interesting and non-trivial findings:
 
 1. rMensRights and rFeminism specific words:
 <img src="https://github.com/chao-ji/reddit/blob/master/wordcloud1.png" width="600">
