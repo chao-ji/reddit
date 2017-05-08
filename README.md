@@ -12,11 +12,9 @@ In this data science project, I tried to understand the users of **r/MensRights*
 
 Below are the highlights of some interesting and non-trivial findings 
 
+<img src="https://github.com/chao-ji/reddit/blob/master/wordcloud1.png" width="600">
+<img src="https://github.com/chao-ji/reddit/blob/master/wordcloud2.png" width="600">
 
-![wordcloud_MR](https://github.com/chao-ji/reddit/blob/master/wordcloud1.png)
-![wordcloud_Fem](https://github.com/chao-ji/reddit/blob/master/wordcloud2.png)
-
-<img src="https://github.com/chao-ji/reddit/blob/master/wordcloud1.png" width="1000">
 
 * [Part 1: Temporal Analysis] (https://github.com/chao-ji/reddit/blob/master/Part%201%20Longitudinal%20Analysis%20-%20Cross-posting%20Activity%20.ipynb)
 * [Part 2: Understanding users] (https://github.com/chao-ji/reddit/blob/master/Part%202%20Author%20Lifespan%20.ipynb)
