@@ -24,9 +24,9 @@ Below are the highlights of some of the interesting and non-trivial findings:
 <img src="https://github.com/chao-ji/reddit/blob/master/score_sempoles.png" width="600">
 
 
-* [Part 1: Temporal Analysis - Cross-posting Activity] (https://github.com/chao-ji/reddit/blob/master/Part%201%20Temporal%20Analysis%20-%20Cross-posting%20Activity%20.ipynb)
-* [Part 2: User Analyis - Lifespan] (https://github.com/chao-ji/reddit/blob/master/Part%202%20User%20Analyis%20-%20Lifespan%20.ipynb)
-* [Part 3: Temporal Analysis - Linguistic Divergence, Unigram BOW ] (https://github.com/chao-ji/reddit/blob/master/Part%203%20Temporal%20Analysis%20-%20Linguistic%20Divergence%2C%20Unigram%20BOW%20.ipynb)
+* [Part 1: Temporal Analysis - Cross-posting Activity](https://github.com/chao-ji/reddit/blob/master/Part%201%20Temporal%20Analysis%20-%20Cross-posting%20Activity%20.ipynb)
+* [Part 2: User Analyis - Lifespan](https://github.com/chao-ji/reddit/blob/master/Part%202%20User%20Analyis%20-%20Lifespan%20.ipynb)
+* [Part 3: Temporal Analysis - Linguistic Divergence, Unigram BOW ](https://github.com/chao-ji/reddit/blob/master/Part%203%20Temporal%20Analysis%20-%20Linguistic%20Divergence%2C%20Unigram%20BOW%20.ipynb)
 * [Part4: Temporal Analysis - Trending Words Over Time](https://github.com/chao-ji/reddit/blob/master/Part%204%20Temporal%20Analysis%20-%20Trending%20Words%20Over%20Time.ipynb)
-* [Part 5: Temporal Analysis - Linguistic Divergence, Bigram BOW and Doc2vec Model] (https://github.com/chao-ji/reddit/blob/master/Part%205%20Temporal%20Analysis%20-%20Linguistic%20Divergence%2C%20Bigram%20BOW%20and%20Doc2vec%20Model.ipynb)
-* [Part 6: Semantic Characterization of Words, Posts, and Authors] (https://github.com/chao-ji/reddit/blob/master/Part%206%20Semantic%20Characterization%20of%20Words%2C%20Posts%2C%20and%20Authors.ipynb) 
+* [Part 5: Temporal Analysis - Linguistic Divergence, Bigram BOW and Doc2vec Model](https://github.com/chao-ji/reddit/blob/master/Part%205%20Temporal%20Analysis%20-%20Linguistic%20Divergence%2C%20Bigram%20BOW%20and%20Doc2vec%20Model.ipynb)
+* [Part 6: Semantic Characterization of Words, Posts, and Authors](https://github.com/chao-ji/reddit/blob/master/Part%206%20Semantic%20Characterization%20of%20Words%2C%20Posts%2C%20and%20Authors.ipynb) 
